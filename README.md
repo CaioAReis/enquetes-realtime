@@ -18,6 +18,7 @@ Um sistema full-stack de votação reativa que permite aos usuários criar enque
 <img width="932" height="732" alt="Captura de tela 2026-09-08 190744" src="https://github.com/user-attachments/assets/4b60280a-d684-4298-8039-5d6dbf1e751a" />
 <img width="932" height="733" alt="Captura de tela 2026-09-08 190818" src="https://github.com/user-attachments/assets/40571ddf-0c54-489a-9d76-8ba1f94e6177" />
 
+<img width="932" height="445" alt="Gravação de Tela 2026-09-08 191713 (1)" src="https://github.com/user-attachments/assets/4834918b-5d6d-4819-b781-e3b1654d2a62" />
 
 
 

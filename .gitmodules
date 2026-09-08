@@ -1,0 +1,6 @@
+[submodule "api-enquetes"]
+	path = api-enquetes
+	url = https://github.com/CaioAReis/api-enquetes.git
+[submodule "ng-enquetes"]
+	path = ng-enquetes
+	url = https://github.com/CaioAReis/ng-enquetes.git
